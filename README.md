@@ -11,7 +11,8 @@ A beginner Python calculator that performs basic arithmetic and saves calculatio
 - View history (`history` command)
 - Clear history (`clear` command)
 
-#Example session
+#  Example session
+
 Welcome to a Simple Calculator
 Type the equation: 5 + 3
 Result: 8

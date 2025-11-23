@@ -21,8 +21,10 @@ Type the equation: 10 * 2
 Result: 20
 
 Type the equation: history
+Result: 
 10 * 2 = 20
 5 + 3 = 8
 
 Type the equation: exit
+Result: 
 Goodbye
